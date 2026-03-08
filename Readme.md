@@ -1,4 +1,6 @@
-# GenAI
+# GenAI & RAG
+
+In this repository you will get to learn how to use GenAI and RAG
 
 ## Getting started
 
